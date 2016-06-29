@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>/home/dushan/dev/ada_arm/led_demo/led_demo.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/button.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/button.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/driver.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 58" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/leds.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 79" line=" 10" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/leds.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/stm32f4-gpio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/stm32f4-sysconfig_control.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/stm32f4.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/stm32f4-reset_clock_control.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/registers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/led_demo.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/dushan/dev/ada_arm/led_demo/led_demo.gpr</vfs_project>
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/registers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 58" >
+      <vfs_project>/home/dushan/dev/ada_arm/led_demo/led_demo.gpr</vfs_project>
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/registers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/dushan/dev/ada_arm/led_demo/led_demo.gpr</vfs_project>
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/stm32f4-gpio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/dushan/dev/ada_arm/led_demo/led_demo.gpr</vfs_project>
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/stm32f4-reset_clock_control.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/dushan/dev/ada_arm/led_demo/led_demo.gpr</vfs_project>
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/stm32f4-sysconfig_control.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/dushan/dev/ada_arm/led_demo/led_demo.gpr</vfs_project>
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/stm32f4.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/dushan/dev/ada_arm/led_demo/led_demo.gpr</vfs_project>
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/driver.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>/home/dushan/dev/ada_arm/led_demo/led_demo.gpr</vfs_project>
+      <vfs_file>/home/dushan/dev/ada_arm/led_demo/src/driver.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

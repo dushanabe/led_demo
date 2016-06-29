@@ -1,0 +1,28 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/dushan/dev/ada_arm/led_demo/led_demo.gpr
+20160629101142
+[BOUND OBJECT FILES]
+/home/dushan/dev/ada_arm/led_demo/obj/stm32f4.o
+/home/dushan/dev/ada_arm/led_demo/obj/stm32f4-gpio.o
+/home/dushan/dev/ada_arm/led_demo/obj/stm32f4-reset_clock_control.o
+/home/dushan/dev/ada_arm/led_demo/obj/stm32f4-sysconfig_control.o
+/home/dushan/dev/ada_arm/led_demo/obj/registers.o
+/home/dushan/dev/ada_arm/led_demo/obj/button.o
+/home/dushan/dev/ada_arm/led_demo/obj/leds.o
+/home/dushan/dev/ada_arm/led_demo/obj/last_chance_handler.o
+/home/dushan/dev/ada_arm/led_demo/obj/driver.o
+/home/dushan/dev/ada_arm/led_demo/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/dushan/dev/ada_arm/led_demo/obj/
+-L/home/dushan/dev/ada_arm/led_demo/obj/
+-L/opt/gnat_arm/arm-eabi/lib/gnat/ravenscar-sfp-stm32f411nucleo/adalib/
+-static
+-static-libgcc
+/opt/gnat_arm/arm-eabi/lib/gnat/ravenscar-sfp-stm32f411nucleo/adalib/libgnarl.a
+/opt/gnat_arm/arm-eabi/lib/gnat/ravenscar-sfp-stm32f411nucleo/adalib/libgnat.a
